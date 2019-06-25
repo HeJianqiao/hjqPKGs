@@ -13,7 +13,7 @@ class ContentDeal
 
     public function chkSenWord():bool
     {
-        echo 'chk sen word.';
+        echo 'chk sen word.' . PHP_EOL;
         return false;
     }
 }
