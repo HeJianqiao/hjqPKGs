@@ -1,0 +1,21 @@
+{
+    "name": "hejianqiao/hjq-pkgs",
+    "description": "hjq's php composer packages",
+    "type": "library",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hejianqiao",
+            "email": "507595917@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Library\\": "src/Library"
+        }
+    }
+}
