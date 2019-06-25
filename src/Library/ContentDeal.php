@@ -6,6 +6,8 @@
  * Time: 11:07 PM
  */
 
+namespace Library;
+
 class ContentDeal
 {
 
